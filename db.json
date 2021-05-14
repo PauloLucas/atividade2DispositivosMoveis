@@ -1,1 +1,33 @@
 
+{
+  "Serviços":[
+    { "tipo": "Lavar"},
+    { "tipo": "Secar"},
+    { "tipo": "Passar"},
+    { "tipo": "Limpar a seco"},
+    { "tipo": "Tingir"}
+
+  ],
+  "Promoções":[
+    { "tipo": "Edredon", "Tamanho":"Pequeno","valor": "R$ 35,00"},
+    { "tipo": "Edredon", "Tamanho":"Médio","valor": "R$ 38,00"},
+    { "tipo": "Edredon", "Tamanho":"Grande","valor": "R$ 45,00"}
+  ],
+  "Valores":[
+    {"id": 1, "Tipo": "Lavar","Peso":"3kg", "Valor": "R$ 30,00"},
+    {"id": 2, "Tipo": "Secar","Peso":"3kg", "Valor": "R$ 20,00"},
+    {"id": 3, "Tipo": "Passar","Unidade":"1", "Valor": "R$ 10,00"},
+    {"id": 4, "Tipo": "Limpar a seco","Unidade":"1", "Valor": "R$ 15,00"},
+    {"id": 5, "Tipo": "Tingir","Unidade":"1", "Valor": "R$ 30,00"},
+    {"id": 6, "Tipo": "Lavar Tapete","Metragem":"metro quadrado", "Valor": "R$ 45,00"}  
+
+
+  ],
+  "Lojas":[
+    {"Localidade": "Centro Histórico", "Endereço": "Av Borges de Medeiros","Numero":"1","Telefone":"51 3232 1001", "Email": "centro@lavafacil.com.br"},
+    {"Localidade": "Boa Vista", "Endereço": "Rua Anita Garibaldi","Numero":"2","Telefone":"51 3232 1002", "Email": "boavaista@@lavafacil.com.br"},
+    {"Localidade": "Santana", "Endereço": "Rua Santana","Numero":"3","Telefone":"51 3232 1003", "Email": "santana@lavafacil.com.br"}
+  ]
+  
+}
+
