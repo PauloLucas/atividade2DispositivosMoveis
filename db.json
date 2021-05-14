@@ -1,6 +1,6 @@
 
 {
-  "Serviços":[
+  "Servicos":[
     { "tipo": "Lavar"},
     { "tipo": "Secar"},
     { "tipo": "Passar"},
@@ -8,11 +8,12 @@
     { "tipo": "Tingir"}
 
   ],
-  "Promoções":[
+  "Promocoes":[
     { "tipo": "Edredon", "Tamanho":"Pequeno","valor": "R$ 35,00"},
     { "tipo": "Edredon", "Tamanho":"Médio","valor": "R$ 38,00"},
     { "tipo": "Edredon", "Tamanho":"Grande","valor": "R$ 45,00"}
   ],
+  
   "Valores":[
     {"id": 1, "Tipo": "Lavar","Peso":"3kg", "Valor": "R$ 30,00"},
     {"id": 2, "Tipo": "Secar","Peso":"3kg", "Valor": "R$ 20,00"},
@@ -20,7 +21,6 @@
     {"id": 4, "Tipo": "Limpar a seco","Unidade":"1", "Valor": "R$ 15,00"},
     {"id": 5, "Tipo": "Tingir","Unidade":"1", "Valor": "R$ 30,00"},
     {"id": 6, "Tipo": "Lavar Tapete","Metragem":"metro quadrado", "Valor": "R$ 45,00"}  
-
 
   ],
   "Lojas":[
