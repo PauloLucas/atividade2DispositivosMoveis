@@ -18,8 +18,8 @@
     {"id": 1, "Tipo": "Lavar","Medida":" Peso 3kg", "Valor": "R$ 30,00"},
     {"id": 2, "Tipo": "Secar","Medida":"Peso 3kg", "Valor": "R$ 20,00"},
     {"id": 3, "Tipo": "Passar","Medida":"Unidade", "Valor": "R$ 10,00"},
-    {"id": 4, "Tipo": "Limpar a Seco ","Medida":"Unidade", "Valor": "R$ 15,00"},
-    {"id": 5, "Tipo": "Tingir","Medida":"Unidade", "Valor": "R$ 30,00"},
+    {"id": 4, "Tipo": "Limpar a Seco","Medida":"Unidade", "Valor": "R$ 15,00"},
+    {"id": 5, "Tipo": "Tingir","Medida":"Unidade", "Valor": "R$ 30,00"}
 
   ],
   "Lojas":[
