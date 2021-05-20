@@ -1,11 +1,11 @@
 
 {
   "Servicos":[
-    { "tipo": "Lavar"},
-    { "tipo": "Secar"},
-    { "tipo": "Passar"},
-    { "tipo": "Limpar a seco"},
-    { "tipo": "Tingir"}
+    { "tipo": "Lavar", "Descricao":"Lavar as roupas em casa demanda um tempo, ao deixar esse serviço por conta da Lavanderia sobra mais tempo para se dedicar a si mesmo e ao lazer"},
+    { "tipo": "Secar", "Descricao":"Estar bem vestido não inclui apenas boas peças higienizadas da forma correta e conservadas, as roupas também precisam estar bem passadas  O problema é que o ato de passar as roupas toma ainda mais tempo e requer alguma habilidade. Quando o serviço de uma lavanderia é contratado, esse transtorno desaparece. "},
+    { "tipo": "Passar", "Descricao":"Uma das tarefas domésticas mais detestadas pela maioria das pessoas: Passar roupa! Se você preferir lavar você mesmo, é possível levar para a Lava Fácil Lavanderia apenas as roupas para passar"},
+    { "tipo": "Limpar a seco", "Descricao":"A lavagem a seco garante a durabilidade das roupas, preservando as cores e mantendo a integridade dos tecidos"},
+    { "tipo": "Tingir",  "Descricao":"Dar um novo up, para as cores daquela roupa temos diversas cores e efeitos que tem o poder de renovar sua roupa favorita.  O processo é rápido e devolve o aspecto de roupa nova ao tecido"}
 
   ],
   "Promocoes":[
